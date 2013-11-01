@@ -9,10 +9,10 @@ widgets:
 - category
 - tag
 
-excerpt_link: Read More
+excerpt_link: 阅读全文
 
 twitter:
-  username:
+  username: SunShall
   show_replies: false
   tweet_count: 5
 
@@ -24,7 +24,7 @@ addthis:
   google: true
   pinterest: true
 
-fancybox: true
+fancybox: true #图片效果
 
 google_analytics:
 rss:
