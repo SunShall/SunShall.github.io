@@ -3,14 +3,14 @@
 ## Source: https://github.com/tommy351/hexo/
 
 # Site
-title: ZYJUN's blog
-subtitle: 分享快乐！！
-description: Just Do It!!!
+title: SunShall's blog #站点名，站点左上角
+subtitle: 分享快乐！！！！
+description: Just do it!!!
 author: ZYJUN
-email: 
+email: 1552757277@qq.com
 language: CN
 
-# URL 这项暂不配置，绑定域名后，欲创建sitemap.xml需要配置该项
+# URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
@@ -56,19 +56,19 @@ port: 4000
 logger: false
 logger_format:
 
-# Date / Time format 日期格式，不修改
+# Date / Time format
 ## Hexo uses Moment.js to parse and display date
 ## You can customize the date format as defined in
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: MMM D YYYY
 time_format: H:mm:ss
 
-# Pagination 每页显示文章数，可以自定义，我将10改成了8
+# Pagination 每页显示文章数，可以自定义，我将10改成了5
 ## Set per_page to 0 to disable pagination
 per_page: 8
 pagination_dir: page
 
-# Disqus
+# Disqus 插件，我们会替换成“多说”，不修改
 disqus_shortname:
 
 # Extensions
@@ -83,3 +83,4 @@ deploy:
   type: github
   repository: https://github.com/SunShall/SunShall.github.io.git
   branch: master
+
