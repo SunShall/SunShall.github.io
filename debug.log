@@ -1,4 +1,4 @@
-date: 2013-12-12 11:42:01.673
+date: 2013-12-12 12:00:49.849
 argv: f:\Blog-ZYJUN\node\node.exe c:\Users\Administrator\AppData\Roaming\npm\node_modules\hexo\bin\hexo generate
 os: Windows_NT 6.1.7601 win32 ia32
 version:
@@ -13,17 +13,12 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 11:42:00.959 Configuration file load successfully
-[debug] 11:42:00.962 Version info checked successfully
-[debug] 11:42:00.962 Loading the database...
-[debug] 11:42:01.514 Theme configuration loaded
-[debug] 11:42:01.528 Theme layout loaded
-[debug] 11:42:01.570 Processed: about/index.md
-[debug] 11:42:01.588 Processed: photo/index.md
-[debug] 11:42:01.615 Processed: _posts/my-new-blog.md
-[debug] 11:42:01.628 Theme source loaded
-[debug] 11:42:01.632 Theme i18n loaded
-[error] 11:42:01.635 { rawMessage: 'Unable to parse.',
+[debug] 12:00:49.211 Configuration file load successfully
+[debug] 12:00:49.213 Version info checked successfully
+[debug] 12:00:49.786 Theme layout loaded
+[debug] 12:00:49.793 Theme configuration loaded
+[debug] 12:00:49.822 Theme source loaded
+[error] 12:00:49.840 { rawMessage: 'Unable to parse.',
   parsedLine: 2,
   snippet: '<<<<<<< HEAD',
   parsedFile: null,
@@ -35,3 +30,6 @@ version:
      members: [],
      _disposed: true },
   domainThrown: true }
+[debug] 12:00:49.879 Processed: about/index.md
+[debug] 12:00:49.898 Processed: photo/index.md
+[debug] 12:00:49.924 Processed: _posts/my-new-blog.md
