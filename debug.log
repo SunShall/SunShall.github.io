@@ -1,4 +1,4 @@
-date: 2013-12-06 13:17:28.219
+date: 2013-12-12 11:42:01.673
 argv: f:\Blog-ZYJUN\node\node.exe c:\Users\Administrator\AppData\Roaming\npm\node_modules\hexo\bin\hexo generate
 os: Windows_NT 6.1.7601 win32 ia32
 version:
@@ -13,18 +13,19 @@ version:
   openssl: 1.0.1e
 ---
 
-[debug] 13:17:25.957 Configuration file load successfully
-[debug] 13:17:25.957 Version info checked successfully
-[debug] 13:17:25.957 Loading the database...
-[debug] 13:17:28.047 Theme layout loaded
-[debug] 13:17:28.078 Theme source loaded
-[debug] 13:17:28.156 Processed: _posts/hello-world.md
-[debug] 13:17:28.187 Processed: about/index.md
-[debug] 13:17:28.187 Theme i18n loaded
-[debug] 13:17:28.203 Processed: photo/index.md
-[error] 13:17:28.203 { rawMessage: 'Unable to parse.',
-  parsedLine: 1,
-  snippet: 'title:“门急诊挂号系统”',
+[debug] 11:42:00.959 Configuration file load successfully
+[debug] 11:42:00.962 Version info checked successfully
+[debug] 11:42:00.962 Loading the database...
+[debug] 11:42:01.514 Theme configuration loaded
+[debug] 11:42:01.528 Theme layout loaded
+[debug] 11:42:01.570 Processed: about/index.md
+[debug] 11:42:01.588 Processed: photo/index.md
+[debug] 11:42:01.615 Processed: _posts/my-new-blog.md
+[debug] 11:42:01.628 Theme source loaded
+[debug] 11:42:01.632 Theme i18n loaded
+[error] 11:42:01.635 { rawMessage: 'Unable to parse.',
+  parsedLine: 2,
+  snippet: '<<<<<<< HEAD',
   parsedFile: null,
   message: 'Unable to parse.',
   domain: 
